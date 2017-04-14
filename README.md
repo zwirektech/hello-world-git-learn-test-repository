@@ -1,2 +1,20 @@
-# learn-git-test-repository
-Test repository for anyone to learn how to use git.
+# The purpose of this repository is to learn git.
+
+The idea is to create a few text files for anyone to edit.
+
+First one is country.txt
+
+Feel free to add more lines in this file to introduce yourself.
+
+
+Second is city.txt
+
+Use one line per developer.
+
+Add any other topic files for people to fill-in, edit, stage, commit and push.
+
+Favorite food, car, music, etc ?
+
+Just use the same convention for every file - use one line for one person.
+
+
