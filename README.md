@@ -1,5 +1,6 @@
 ## The purpose of this repository is to learn git.
 ### It is free and open for all contributors
+#### Just fork it, commit a change and make a pull request. I will add you as collaborator to allow the push access.
 The idea is to create a few text files for anyone to edit.  
 First one is country.txt  
 Feel free to add more lines in this file to introduce yourself.  
